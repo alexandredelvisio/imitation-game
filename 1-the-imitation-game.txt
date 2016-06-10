@@ -1,1 +1,4 @@
 1. The Imitation Game
+
+I PROPOSE to consider the question, 'Can machines think?' This should begin with definitions
+of the meaning of the terms 'machine' and 'think'.
